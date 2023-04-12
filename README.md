@@ -1,6 +1,6 @@
 # bankist
 website link
-https://harshayadav1.github.io/bankist/
+https:https://abhilashamula.github.io/Bankist-Webapp/
 
 usernames:
 1. user: js
